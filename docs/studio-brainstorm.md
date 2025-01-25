@@ -81,6 +81,7 @@
   - Tagline 3: "Let's start again, from the beginning!"
 
 -- **Sketches/Logo**:
+![Logo](https://github.com/user-attachments/assets/af0f3a15-0c2a-49b5-b606-abb092123b52)
 
 ---
 
@@ -89,3 +90,4 @@
 I'm mostly inspired by the game Inscryption and the way Genshin communicates story through books found and artifact & weapon descriptions. Also the genshin TCG. My story is entierly my own, but how to implement it into a card game comes entierly from these two.
 
 > [Free space for brainstorming!]
+> Not sure how well I'll be able to draw my TCG cards since I strictly do not color and especially do not draw digitally. I'll manage tho.
