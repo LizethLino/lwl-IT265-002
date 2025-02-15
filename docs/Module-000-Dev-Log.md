@@ -62,3 +62,34 @@
 - Tasks or experiments to focus on during the next session.
 - Streamline story and start sketching card designs and ideas.
 
+### Date: [02/14/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: learn more about card games
+- [ ] Goal 2: start to commit game concepts to memory for whenever we get the exam
+- [ ] Goal 3: still need to do those designs
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - I researched card game designs and mechanics (just a little bit honestly). 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Im starting to realize how difficult it will be to make a fleshed out trading card game.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - While I was researching I came across a video describing poker, go fish, etc and it occured to me as a fail safe I could try to make a game based on these. Somehow I had completely forgotten those type of games existed. OMG WAIT WHAT IF I MAKE A CHESS TYPE GAME BUT THE PIECES ALL HAVE COOL MECHANICS??? LESS TO THINK ABOUT AND MORE STRUCTURED RULES???? a thought. to consider :)
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- Make sure cards are legible. Make the important parts of your cards where your player will quickly see them. ALso consider the way the player will these cards. For example, consider playing a game with physical cards in hand. Normally you have them splayed out so you can see one of the top corners of your card. Important info should be visible to the player here. Lead the player's eyes to the important information.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- Chess. But the pieces are unique characters????? A thought. I'll still have to learn how board games work, but it might just be less daunting than a trading card game. Plus the project is supposed to be a player v player type thing, so my plan on making the player play against some other entity won't work.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- RESEARCH BOARD GAMES. AND CHESS. PROBABLY CHECKERS BECAUSE CHESS IS SCARY.
+
+
