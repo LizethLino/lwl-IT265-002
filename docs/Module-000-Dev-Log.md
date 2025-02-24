@@ -31,7 +31,9 @@
 - Tasks or experiments to focus on during the next session.
 -  Research more into TCGs
 
-### Date: [02/09/2025]
+### Module: 2
+
+### Date: [02/04/2025]
 
 #### Goals for this Module
 - [ ] Goal 1: How to balance the various qualities of a game and gameplay.
@@ -62,7 +64,7 @@
 - Tasks or experiments to focus on during the next session.
 - Streamline story and start sketching card designs and ideas.
 
-### Date: [02/14/2025]
+### Date: [02/06/2025]
 
 #### Goals for this Module
 - [ ] Goal 1: learn more about card games
@@ -92,4 +94,153 @@
 - Tasks or experiments to focus on during the next session.
 - RESEARCH BOARD GAMES. AND CHESS. PROBABLY CHECKERS BECAUSE CHESS IS SCARY.
 
+### Module: 3
+
+### Date: [02/11/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Learning Look and feel
+- [ ] Goal 2: Start reading the textbook and take notes
+- [ ] Goal 3: Arrange for characters to use for my project
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Wrote up notes for look and feel. The textbook is pretty good with explanations although I feel like it loses itself at times with its examples over definitions. Figured out some characters to use for my story. Currently have 19 names with most of them having good backstories already. Ideally I want to have a few more, but we’ll see how feasible that is.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Some of the characters will need to be modified to make them fit into the game I’m thinking of.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - My plan is to rewrite/reinterpret their lore based on the way the game will go. To do that I’ll need the layout of the game to be more finalized which will take a bit.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- I’ve always been more of a visual person so look & feel shouldn’t be difficult to consider. For what my game might entail I want to see if I can communicate the story in a visual way that will keep players interested.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- When it comes to characters I’m good at making their stories fun and interesting but I am significantly worse at specific things like design or clothing. That’ll be something I’ll have to focus on for a while to make sure I’m satisfied.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Start thinking about how the game will work. Think about designs for the characters and how they should be drawn onto cards or the like.
+
+### Date: [02/13/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Learning color theory
+- [ ] Goal 2: Figure out game ideas
+- [ ] Goal 3: Start reading the textbook and take notes
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Read through color theory slides. Started thinking up a concept for the board game I’m going for. Color schemes for characters is being considered.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Not sure how much I should include in the game. I want to incorporate some aspects of character story into this game but that might be too difficult to do in a board game.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - Consider removing some ideas in favor of something that will still have many characters without being overly complicated. Make PVP a main focus and not just limited to certain characters.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- Considering using split complementary or triadic colors for my character designs.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I already have core colors for 9 characters and the others will ideally not overlap. Or I can have the colors overlap based on the type of card it is… To be explained in the next entry. Gotta dig out my old markers to test out color schemes. I never color in my drawings so this will likely be an experience.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Detail the game idea so far in the next entry.
+
+### Module: 4
+
+### Date: [02/18/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Learning Game Mechanics
+- [ ] Goal 2: Game idea time
+- [ ] Goal 3: Start reading the textbook and take notes
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Idea of a board game has been made but not finalized. Definitely ambitious but ideally something like “Betrayal at house on the hill” would be cool.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Too many ideas that can’t be realistically implemented together.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - Keep the ideas I like and focus on thinking of alternative implementations for my other ideas or removing them altogether.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- n/a
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- My notes from class on my idea. They are messy but they are mine.
+
+Have character cards and separate teams
+The first character card you pull before the game starts determines your team leader. The team leader decides your team’s win objectives. 
+There are several evil characters.
+Throughout the game you will have at least a team of three characters (either once in the beginning with 2 more throughout the course of the game or 3 character card pulls in the beginning of the game)
+If you pull an evil character card, they automatically become the team leader and your win objectives change to the objectives of the evil character
+Characters have relationships with other characters. Depending on your team leader, you will gain benefits from acting against or in support of certain characters.
+HOWEVER, you do not reveal to other team’s who your character is
+Consider, you have the ability to ask questions to determine whos on their team
+The characters in your hand determine the things you can do, each having separate skills
+High tier characters have specific weapon cards that if used by them will double their attack power. (character with a signature weapon)
+Whoever achieves the win objectives first wins
+If you identify an evil team you can target them to take out possible enemies
+
+character card types
+Villains (usually, kill off other teams)
+Traitors (can overthrow their team leader,,, switch teams???)
+Heroes (keep their team members safe)
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Decide on the goal and setting of the game.
+
+### Date: [02/20/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Discuss ideas for my game with other people
+- [ ] Goal 2: Start sketching some ideas for cards
+- [ ] Goal 3: Start reading the textbook and take notes
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Bounced ideas off of a friend. Minimized some of the mechanics for the sake of simplicity.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Some mechanics that I think would be really cool ultimately might just be too much trouble to implement without making the game confusing.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - Removing some of the mechanics in favor of others.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- New notes on the idea 
+
+SETTING: Time has stopped and the world has begun to close in on itself, crumbling into the void. A single portal remains open on the other side of the map that is your salvation. However this portal only has enough space for one team. Your goal is to survive and reach the portal first to make it out with your life. Some teams may sabotage others and lay traps or kill if they feel the need to. This is a game of betrayal.
+
+Maybe assign one of the seven deadly sins to each card and make it their type (like pokemon types). Balance type weaknesses.
+
+Map should force teams to interact with each other so pathways should converge at points to encourage pvp. Maybe the map has hidden passageways that can be unlocked by event cards.
+
+Maybe the portal should be blocked off by a locked gate? That would make teams want to fight for the key. 
+
+If you kill a team you are able to get one of their items. All teams can PVP but maybe villain teams can lay traps or close off pathways forcing players to take other paths. 
+
+Create ambiance in the game by showing the map crumbling on the sides. Maybe after a certain amount of time the map starts falling apart? Who knows.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- Create a solid idea for the game then focus entirely on card and map design.
 
