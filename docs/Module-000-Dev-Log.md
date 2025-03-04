@@ -244,3 +244,72 @@ Create ambiance in the game by showing the map crumbling on the sides. Maybe aft
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 - Create a solid idea for the game then focus entirely on card and map design.
 
+### Module: 5
+
+### Date: [02/25/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Wrote notes on Game Mechanics and Depth Vs Complexity
+- [ ] Goal 2: Figure out more about my game
+- [ ] Goal 3: Secret third thing
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Finished my notes on Game Mechanics and Depth Vs Complexity. Got an idea for the enemy type of my game.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Having trouble deiciding how complex I should make my game. Also don't want to just make my game too similar to existing ones.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - I'm thinking of watching playthroughs of popular games to get ideas of mechanics. I have never played a legend of zelda game nor watched a hollow knight playthrough, so I'm thinking of doing that first.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- I want to add a significant amount of depth. I always care more about story rather than gameplay so I trying to make it so my game mechanics allow for a plot of some sort to be hidden beneath the surface. Oh that somehow reminded me of those old markiplier playthroughs of games where you were infected all along... I should look those up too.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I was talking through my story to my friend and I realized that it lended itself well to a main enemy type in the game. Essentially I'm thinking the setting is a bit like a zombie apocalypse. Corruption of the world can contaminate the people themselves and your teams are the only people left uninfected. Any character cards you didn't pick are the enemies you find along the way with their damage defense and hp doubles maybe? I'm wondering if there should be character card tiers where some are better than others but I don't want to make that too broken. Maybe higher tier characters can search for certain items that unlock their unique abilities? So they can waste time searching for an item to give them the ability to destroy parts of the map or just speed ahead as a normal player. Who knows. I certainly don't.
+- Bonds definitely play a part here. Maybe if you have good relationships with people before they were corrupted you might do less damage against them. Ohhh or maybe the enemy might choose to ignore you since they were close to you. A thought to consider.
+- Maybe you get role cards that define how you act? Most corrupted are feral (not for brains or human flesh tho) and just act erractically but that isn't always the case. Maybe you can be infected and your role is to infect others. (I SWEAR I DONT WANT THIS TO BE LIKE AMONG US BUT IT KEEPS SOUNDING LIKE AMONG US IM GONNA LOSE MY MIND MY MARBLES ARE EVERYWHERE WHY IS EVERYTHING AMONGST US)
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- More game stuff
+
+### Date: [02/27/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Discuss ideas for my game with friend
+- [ ] Goal 2: Read over the Design treatment doc to start outlining my idea
+- [ ] Goal 3: Find the example he showed in class
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Started looking over the design treatment and thought up more ideas based on Betrayal at House on the Hill. Thought more about my game. This is less technical thought and just ideas (when is it ever technical really)
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a (same thing as always how do I balance things)
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- n/a
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I don't think I want the game to be a among us type thing with an imposter no matter how tempting the idea is.
+- Expanding on the idea of corruption. Maybe theres a certain level of corruption a character has that increases overtime and can be affected by other events. I like the number 10 but that might be too much. Maybe 6? Level 4 is the threshold where you go from mostly sane to completely feral. If one of your team members becomes corrupted, their level starts at 1 and can be increased over time (maybe every few turns or specific encounters?). The benefit of keeping a character on your team as they are corrupted is that their attack and durability go up making them better when taking on harder challanges (still gotta figure out what those challanges are).
+- I'm wondering how I should go about a corrupted character. Maybe if a noncorrupted character dies they get shuffled into the character card deck and can be randomly found later corrupt as an enemy. A corrupted character who "dies" is immediately feral and attacks your team. To avoid this you can abandon a corrupted teammate at any point and shuffle them into the character deck to encounter them as an enemy later. I'm thinking to make it more difficult maybe you can attach weapons or enhancements to characters and if they die or get abandoned they leave with their items. I'm wondering how I can make it so that they can't just take the weapons or enhancements from them without consequence. Maybe they can only be swapped? Maybe they cost something to be removed? decisions decisions. I like this idea though.
+- OTHER IDEA. Maybe I can create zones on the map and each zone has a seperate character deck. Either you can choose where to abandon your teammate and shuffle their card into any zone deck or you shuffle them into whatever zone deck your in, so in theory you can specifically go to a zone where other people are in, let your teammate leave with their weapons and enhancements making them a harder enemy for other people to fight and essentially making certain parts of the map riskier than others. I actually really like this zone idea. Maybe certain zones have different loot? Definitely something to consider. Still wondering how static or dynamic the map should be. AHHHHH
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- start design treatment so I don't die during midterm week (I HAVE THREE EXAMS IN TWO CONSECUTIVE DAYS WHY ME)
+- I'll be using the design treatment to guide my thinking otherwise my brain would be too all over the place (as you can see)
