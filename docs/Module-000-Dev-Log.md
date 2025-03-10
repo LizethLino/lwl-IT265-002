@@ -313,3 +313,108 @@ Create ambiance in the game by showing the map crumbling on the sides. Maybe aft
 - Tasks or experiments to focus on during the next session.
 - start design treatment so I don't die during midterm week (I HAVE THREE EXAMS IN TWO CONSECUTIVE DAYS WHY ME)
 - I'll be using the design treatment to guide my thinking otherwise my brain would be too all over the place (as you can see)
+
+### Module: 6
+
+### Date: [03/04/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Think of new concepts to fill in the gaps
+- [ ] Goal 2: Study the textbook
+- [ ] Goal 3: Look up accessibility in board games
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Think of some of the actual concepts like points, cost for movement, etc. Also think about how to make my game accessible.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - I realized my game would probably not be very acessible to the visually impaired since the map is something that is put together and wouldn't be able to be touched without messing up the map.
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - Consider changing the map or location tiles to make them interlock and be able to be touched more easily
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- When I was looking up accesibility in games I saw how some board games had plastic covers to add braille over the board which is actually really cool.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+World is falling apart, concepts that can work with this
+* locations are unstable and can faze in and out of existence (timer mechanism kinda like the space time distortion ig)
+* Characters become corrupted and begin to lose control of their own actions (maybe at level 3 corruption theres a chance they can attack teammates?)
+* Time aspects? Idk if that will fit
+* Maybe add in corrupted beasts? Difficulty is corrupted people < corrupted teammates < corrupted beasts?
+
+Items
+* Standard weapons and high tier weapons
+* Healing items
+* Enhancement items (maybe artifacts or food that buffs?)
+* Armor?
+
+Consumables
+* Energy????
+* Idk if money is gonna be important here
+* Maybe trading items for other better (or worse) items?
+
+Enemies
+* Should they be roaming or static in location?
+* Either layout event spaces on the board that prompts events or
+* Do enemies provoke the attack or retaliate
+* Enemies have preferred types of people to attack? Maybe based on bonds? Or character typing
+* Every time a character attacks they 
+
+Dungeons?
+* Temporary places appear that get a random item either you know what youll get from the beginning or you don’t who knows
+
+Characters
+* Should they have specialties?
+* Something to do with sins? I feel like it would be cooler to make it an item/event card
+* All cards can attack but should all be able to heal
+* Cards should have specialties like melee, brawler, ranged, support, magic, etc
+
+Goal is to find your way through the gate to get to the portal first team there wins
+
+Multiple ways to win?
+* Attack the gate
+* Find the key
+
+7 Deadly Sin Event cards
+* Wrath: Kill off one of your teammates. You cannot remove items from their inventory. Their life was forfeit and nothing matters beyond satiating your own bloodlust.
+* Sloth: Don’t move for 5 turns. ??? smthn like that 
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Finalize idea and finish design treatment
+
+### Date: [03/06/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Finish design treatment
+- [ ] Goal 2: Study for midterm
+- [ ] Goal 3: ---
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - I finished the design treatment :D
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - I didnt really have any issues since most of it was just writing out things I already had in my head. Although theme has always been something I didn't understand.
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- Accesibility in gaming. Game themes because those are confusing and I hate them. 
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I'm wondering how I should make my location tiles. It would be cool to go a bit crazy and make them 3D but it would proabably be better to just make them a normal card. I'm probably going to use a combination of cardboard and cardstock (and index cards) to make my physical prototype. Most of the effort will go into character and ability creation since they have to be unique.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- make physical prototype over the break
