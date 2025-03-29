@@ -418,3 +418,68 @@ Multiple ways to win?
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 - make physical prototype over the break
+
+
+### Date: [03/25/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Be ready to present
+- [ ] Goal 2: Make some final pieces of the physical prototype if we have time
+- [ ] Goal 3: Think of more special abilities
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Over the break I finished 20 character designs and made a few location tiles and event cards to show how the game works. I should make more to actually test the game. Also stole some dice from a friend (I'll probably give them back).
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Some special abilities are a bit overpowered depending on when you used them.
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - we specificed when you would be able to use them. Field, combat, and field/combat special abiilities.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- We considered making seperate dimensions that the tiles can come from. This allows the characters to have diverse designs based on where they are from.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I'll keep the location tiles to flat surfaces for the sake of the physical prototype. Digitally I'd like for each to have some sort of design.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Make more location tiles and event cards for testing.
+
+### Date: [03/27/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Figure out new designs for the maiden/matron (I just don't like it)
+- [ ] Goal 2: Start thinking about how to do things digitally
+- [ ] Goal 3: Special abilities might prove to be a problem
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Made more location tiles. Studying for another class so haven't been able to do as much.
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Realized there was an issue with the way I wanted DEF to work in the game. 
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - We changed it to a dice roll and will update the cards so their DEF goes from 1-3.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- n/a
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- not much. Wondering how I'll learn C# for the digital prototype.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Look into object oriented programming since I haven't done it for awhile.
