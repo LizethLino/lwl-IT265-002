@@ -419,6 +419,7 @@ Multiple ways to win?
 - Tasks or experiments to focus on during the next session.
 - make physical prototype over the break
 
+### Module: 7
 
 ### Date: [03/25/2025]
 
@@ -484,7 +485,7 @@ Multiple ways to win?
 - Tasks or experiments to focus on during the next session.
 - Look into object oriented programming since I haven't done it for awhile.
 
-### Module: 7 & 8 (I need to study for a quiz)
+### Module: 8
 
 ### Date: [03/08/2025]
 
