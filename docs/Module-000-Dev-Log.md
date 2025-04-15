@@ -483,3 +483,68 @@ Multiple ways to win?
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 - Look into object oriented programming since I haven't done it for awhile.
+
+### Module: 7 & 8 (I need to study for a quiz)
+
+### Date: [03/08/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Watch people present
+- [ ] Goal 2: consider how to code the game
+- [ ] Goal 3: (For reference I have a terrible sense of time so events will be out of order)
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - I wasn't here on the first of April which just so happened to be the week lectures began again so woe is me. I haven't done much but I did start playing Pokemon Pocket which has given me some ideas for how card games work.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- Consider the phases of combat and the idea of an End Turn button
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I've been playing around with the idea of being able to lay traps or something like that. The possibility of just cycling around for the event cards you need seems like a likely problem to encounter.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Do more testing.
+
+### Date: [03/10/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Coding game considerations
+- [ ] Goal 2: 2D and Hex grids
+- [ ] Goal 3: ---
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Learning about 2D grids made me think that coding the expanding map might be troublesome. I'll have to look into expanding arrays which in the moment the only thing I could think of was malloc, calloc, and realloc which might be troublesome.
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- n/a
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- Honestly haven't done much becuase of other exams I've had. The 2D grids did catch my attention. Once I study for my quiz I'll look up game programming videos and the like. 
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Look into Unity and C#
+
