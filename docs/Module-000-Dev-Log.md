@@ -487,7 +487,7 @@ Multiple ways to win?
 
 ### Module: 8
 
-### Date: [03/08/2025]
+### Date: [04/08/2025]
 
 #### Goals for this Module
 - [ ] Goal 1: Watch people present
@@ -517,7 +517,7 @@ Multiple ways to win?
 - Tasks or experiments to focus on during the next session.
 - Do more testing.
 
-### Date: [03/10/2025]
+### Date: [04/10/2025]
 
 #### Goals for this Module
 - [ ] Goal 1: Coding game considerations
@@ -551,7 +551,7 @@ Multiple ways to win?
 
 ### Module: 9
 
-### Date: [03/15/2025]
+### Date: [04/15/2025]
 
 #### Goals for this Module
 - [ ] Goal 1: Entity-Based Systems
@@ -581,7 +581,7 @@ Multiple ways to win?
 - Tasks or experiments to focus on during the next session.
 - Start coding and plan out my calendar with exams in mind
 
-### Date: [03/17/2025]
+### Date: [04/17/2025]
 
 #### Goals for this Module
 - [ ] Goal 1: Decks and Cards
