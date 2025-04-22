@@ -549,3 +549,66 @@ Multiple ways to win?
 - Tasks or experiments to focus on during the next session.
 - Look into Unity and C#
 
+### Module: 9
+
+### Date: [03/15/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Entity-Based Systems
+- [ ] Goal 2: Start coding fool
+- [ ] Goal 3: Figure out what to do for special abilities
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Haven't really done much. Just considered the topic discussed in class and how I'd implement it.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- Entities, Components, and Systems. Entities in my game would likely be the characters and items. Components would amount to things like HP, ATK, DEF, SPD, and CORRUPTION. Items may have durability although it would likely just be a 0 or 1. 
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I probably will use more beginner friendly logic for my game rather than the complicated thing (ECS?). I mostly see special abilities being an issue. And the fact that I've never made a game in my life but anyway.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Start coding and plan out my calendar with exams in mind
+
+### Date: [03/17/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Decks and Cards
+- [ ] Goal 2: start coding fool
+- [ ] Goal 3: Regret (not my game but just about everything else)
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Considered how my deck would work and how I could do the bare minimum and achieve my goals.
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- Deck may be stack, queue, list, or array. Will probably use lists when I can't use arrays although I have to learn how they work. I'm too used to making stacks and queues in C. Deck will probably be predefined then get shuffled. I was considering having the characters each have an identifiable number then make an array that simply switches the numbers around, but that may be unnecessarily complicated.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- Definitely consider end of turn since its pivotal for cards n stuff.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- CODE SOMETHING
