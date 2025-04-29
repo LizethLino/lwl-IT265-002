@@ -611,4 +611,68 @@ Multiple ways to win?
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
-- CODE SOMETHING
+- CODE
+
+### Module: 10
+
+### Date: [04/22/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: code fool
+- [ ] Goal 2: Level Mechanics & User Interface
+- [ ] Goal 3: Installed Unity and Visual Studio
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Read over the slides on Level Mechanics and UI. Installed Unity and visual studio to start coding as soon as possible.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- 2D animation on a tile based system. UI should be kept simple for my needs.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- 2D seems like what I need. If we keep everything as basic as possible then all I need is a 2D field. I'm fond of a simplified UI, so ideally I'll keep buttons and the like off the side. I'm thinking the cards should be a view that can be pulled up although I wonder if that might be difficult. Realistically, all I need for movement is the arrow keys which can be implemented in C# with little difficulty. Inventory is likely best done in a grid style. Although the simple minecraft inventory stacking will probably be enough. Cards will have number of uses of skills explicitly written in a way that is clear.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Watch unity tutorials and get started.
+
+### Date: [04/24/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Tried coding but my laptop froze (uh oh)
+- [ ] Goal 2: Actors
+- [ ] Goal 3: AI
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Read over actors and AI slides. Started coding in Unity. I just set up two basic entities to represent the players and I tried writing a script that was dependent on arrow key input.
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Trying to use unity for the first time, everything froze. 
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - I waited awhile and nothing seemed to work so I had to shut it down. I'll try it again tomorrow.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- 2D images, maybe sprite sheet. Look into armatures since it says they are used for 2D. Animation will likely be manually defined. Nothing is unpredictable. AI will likely be minimal if none at all.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I will likely only need a sprite sheet at best. I just want to create the basic mechanics so animation isn't necessary to do that. Most of the things that could be dealt with by AI like the skill usage I think I'll ignore for simplicity. As far as unpredictability goes, I'll leave it to randomization. Something like a dice roll.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- CODE
