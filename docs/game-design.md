@@ -69,13 +69,15 @@ The multiverse theory influences the concept of location tiles being color coded
 ---
 
 | **Tile Type** | **Color** |
-|----------- ---|-----------|
+|---------------|-----------|
 |  **KINGDOM**  |   Green   |
 |   **RUINS**   |   Orange  |
 |    **LAB**    |    Grey   |
 |   **MEDIA**   |    Pink   |
 |    **CITY**   |    Blue   |
 |  **FACTORY**  |    Red    |
+
+---
 
 ## Character Card Display
 ![card example](https://github.com/user-attachments/assets/4a13a41b-c5c3-4654-bc1e-c9c0aa76791b)
