@@ -676,3 +676,68 @@ Multiple ways to win?
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 - CODE
+
+### Module: 11
+
+### Date: [04/29/2025 & 05/1/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: code fool
+- [ ] Goal 2: study for the final
+- [ ] Goal 3: plan how I'll do game after final date
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Study the slides and handled all of my other coursework in reasonable time. In a sense.
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - n/a
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - n/a
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- n/a
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I'll focus on doing my project for the next three days. I need to finish on friday so I have enough time to study for my finals. Woe is me. Correction. Woe be upon ye.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Lock in.
+
+### Date: [05/06/2025 & 05/08/2025]
+
+#### Goals for this Module
+- [ ] Goal 1: Finish demo
+- [ ] Goal 2: Figure out what he wants on a design document
+- [ ] Goal 3: Should be copy and paste everything from treatment? Im assuming no????
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - Coded as much as I could. Implemented the basic game structure with the minimum necessary. There is tile movement, character cards, event cards, and a win screen.
+ 
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  - Seems to be a glitch with removing displayed cards from view. There also seems to be a glitch where they update and display the incorrect card after turns.
+
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  - Made code not throw errors and kept sequence running. Eventually I'll update the CharacterCard class to be a scriptable object and make it the same way I did the item cards and event cards.
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+- There is,,,, so much,,,,, that goes into making a game. Why do I have 3 seperate files just to display cards. I'm gonna explode. Dragging and dropping elements into the inspector is the only thing that kept me going.
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I will be continuing this project. I want to get this fully working and maybe even get some of my art friends to draw designs for cards or UI that I can implement. It occured to me earlier as I was updating my design treatment (once again how similar does he want that to be to the design doc???? im gonna explode x2)
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+- Start from beginning. There are errors that likely will only be corrected if I remove them and try to set them up differently to begin with.
+
