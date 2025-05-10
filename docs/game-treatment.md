@@ -363,5 +363,10 @@ He understood the game, but he thought instead of just Healer, Tank, and Damage,
 Include any additional sketches, mood boards, or early design mockups if available.  
 If digital assets are unavailable, describe any rough concepts you have in mind. 
 -->
+![PaperDesign](https://github.com/user-attachments/assets/f9f1a0ef-648d-4eaa-92f1-7f03b9405d91)
+![ProphetBeta](https://github.com/user-attachments/assets/c3ee4a65-6974-4af3-8f53-022ba5300b03)
+![The Outlander](https://github.com/user-attachments/assets/d55557a4-08b7-4c99-9683-30080ef7324d)
+![The Designer](https://github.com/user-attachments/assets/f3e0fc12-2bc5-4594-8305-917d66bdb9e6)
+![The Derelict](https://github.com/user-attachments/assets/10759416-ed6d-4f5a-b6a1-fef02dc03f6a)
 
 ---
