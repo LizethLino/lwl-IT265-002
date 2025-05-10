@@ -35,6 +35,7 @@ Examples: "A dark, gothic horror with hand-drawn 2D animation" or
 "A lighthearted, comedic party game with vibrant colors and exaggerated physics." 
 -->
 A fast-paced, strategy game with 2D drawing for character cards and unique 3D location tiles.
+Tiles are limited to 2D where they are differentiated by their color.
 ---
 
 ## Target Audience
@@ -44,7 +45,7 @@ A fast-paced, strategy game with 2D drawing for character cards and unique 3D lo
 Identify the target age group, interests, and gamer profile. 
 Mention if your game appeals to casual or hardcore players. 
 -->
-Targetted towards people 12 and up who are interested in roleplay elements, strategy, and story. It would likely not be appealing to casual gamers since it requires keeping track of your own hp
+Targetted towards people 12 and up who are interested in roleplay elements, strategy, and story. It would likely not be appealing to casual gamers since it requires keeping track of your own hp. In a digital concept however this would be done for you so it may be more accessible to casual players.
 ---
 
 ### Accessibility
@@ -53,6 +54,8 @@ Describe how the game will accommodate different skill levels.
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
 Skill levels can be accomodated through a tutorial level that walks you through the game before playing against actual players. Modes of difficulty is unlikely to make the game any easier since the point is for it to be a slightly challenging strategy game.
+
+Mode of difficulty to be considered is increasing the chances of recieving the gate key. The less likely it is to get the harder the game is since you have to survive longer.
 ---
 
 ### Inclusivity Strategies
@@ -62,6 +65,8 @@ Consider gender representation, cultural diversity, and accessibility features f
 -->
 Try to make each tile unique by adding notches or unique symbols. For example, instead of the one-use tiles all being squares with a different symbol, they should all have an imprinted symbol that can be felt by a blind player to identify them. Perhaps an accompanying app to tell you what certain cards are.
 The character cards are of varying races, sexualities, and circumstances although it might not be immediately apparent. Some that come to mind are nonbinary characters, lesbian characters, divorced characters, etc.
+
+We can eventually update the tile cards to have displays of the area they represent (kingdom, ruins, etc)
 ---
 
 ## Core Gameplay Mechanics
@@ -100,18 +105,38 @@ Abandonment: If a character is getting too close to their corruption threshold, 
 Detail what players aim to achieve and the obstacles they must overcome. 
 Explain how these challenges drive player engagement. 
 -->
+Your goal is to make it through the portal with at least one of your characters alive. Within the game, there will be multiple ways to get to the portal. Killing off other teams will eliminate competition and being the last team standing gives you the automatic win. A gate blocks the portal so finding the key to the gate is also a way to win. You could also attempt to break through the gate by force which takes time or high tier weapons. There is also the method of finding a backdoor to the portal. No matter what method you choose whoever makes it to the portal first is the winner. Challenges come in the form of event cards. These events cards will command you to do something that puts you at a disadvantage (Event Card: Wrath, kill off one of the teammates of your choice and add them into the character pile to return as an enemy. Lose the items that character is holding.) Choosing to ignore these event cards will accumulate corruption on your team leader. Once your team leader reaches max corruption they will turn on you and attack you with the weapons you gave to them. It is important to take into consideration when to abandon a teammate based on your position. Sometimes a corrupted teammate may be best to keep around because you need their abilities to be stronger. Even when you choose to abandon them is important if you notice an enemy team is likely to pull an event card next, they will be forced to deal with your corrupted teammate.
 
 ### Progression
 <!-- 
 Describe how the gameplay evolves over time. 
 Are there new abilities, unlockable levels, skill trees, or difficulty scaling? 
 -->
+As time progresses in the game, you accumulate more items and may have less uses for your special abilities, so tension may build in the game. The more time passes, the harder the game will get since you're limited to three characters.
 
 ### Game Rules
 <!-- 
 Outline the core rules governing the gameplay experience. 
 Ensure they are clear, structured, and intuitive. 
 -->
+On game begin, pick three cards from the character deck and select the one with the highest DEF to be your team leader. This will be the character that takes the damage during combat.
+Once both players have their three cards, place your piece in the starting location and begin your turn. You can decide who goes first. A traditional rock paper scissors will suffice.
+On turn begin:
+1. move to one of the tiles connected to the starting tile. (Imagine that the starting tile in the final demo will be a long strip on the left side of the grid. Player can choose to jump onto any of the tiles next to the starting strip). Same logic applies to all consecutive turns. You are able to go onto any tile that neighbors your current one.
+2. Depending on the tile color, your characters may get a speed buff due to HomeTurfAdvantage. All this means is that if the character card and tile type are the same, increase character speed by 1. This is relevent during combat. When not on matching tile, speed remains the same.
+3. If the tile you land on has an opposing player, combat is initiated (read combat portion). If all character cards are dead, you automatically lose. You may choose to retreat to avoid/escape combat and jump within a certain radius of your current tile.
+4. Every two turns pull a card from the event deck. The event deck has three types of unique events. The find item event, the encounter enemy event, and the special consequence event. The special event consequence card will grant you some sort of disadvantage. But fear not! You have two options when pulling an event card. Either accept and bear the weight of the consequence, or ignore and increment the corruption value of one of your character cards.
+  - When corruption for any character reaches 3, they are now an enemy and combat will begin. Your remaining cards will fight against the corrupted character. (Read combat portion)
+  - Before corruption reaches 3, your characters will find themselves becoming stronger. For every increase in corruption, HP increases by 5 pts. But once they reach corruption level 3, this increase in strength will make them a deadly foe. (crrpt = 0 -> hp = 20, crrpt = 1 -> hp = 25, ...). In this situation you may choose to abandon your teammate. Put them on the top of the character card deck and set their CRRPT = 3. They will be the next encountered enemy for whoever player pulls the card.
+  - As for find item and encounter enemy events, these two have no consequences and cannot be ignored. The items you find each serve some sort of purpose and depending on what they are they can be used during combat or on the field grid (combat -> sword, field -> movement x2, ...). Encounter an enemy will initiate combat with your character cards and the encountered enemy (Read combat portion).
+4. As you traverse the tiles, for every item card you pull you have a chance of finding a key. Once you have the key, race to the gate (like starting strip but on the right side) and get to the gate to win. Only those with keys can open the gate.
+  - An opposing player may choose to intercept you in this moment. They may choose to use their special ability if it helps them. Players have the different ways they can steal the win away from you in this moment. (Kill their whole team, special ability that steals items, movement x2 tile, etc)
+
+Combat portion
+1. When combat is initiated, the team leader is put in the front and they are the ones to take damage. (In the case of an encountered enemy, they are automatically the team leader).
+2. Add up the speed of all of your characters and if the total speed of your team exceeds the speed of the opposing team, you go first. (This is where the speed buff comes into play).
+3. A turn begins. One of your characters attack the opposing team lead. You can select any of your character cards. Damage is determined by a dice roll based on your attacking character's ATK. For every ATK point, roll a dice and add up for total damage. The opposing player's team lead uses the same logic to counter some of that damage using their DEF stat. (Say atk=3, rawDMG is 13. Opposing player def=2, counteredDMG is 7. totalDMG=rawDMG-counteredDMG.)
+4. Before attacking, you can use an item or use your special ability. An item like the sword will raise your atk by 1 making you do more damage. A special ability may allow you to attack twice. You can only use 1 item and 1 special ability per turn. And stats cap at a certain point.
 
 ---
 
@@ -190,11 +215,13 @@ Players should be excited and tense since the special abilities make the gamepla
 Specify where the game will be played (e.g., PC, console, mobile, VR). 
 Mention any cross-platform support if applicable. 
 -->
+Game will ve played on PC mostly because I'm most comfortable with PC games. Mobile might be limiting but feasible with zoom in/out features.
 
 ### Tools
 <!-- 
 List key engines, programming languages, or frameworks required for development. 
 -->
+Unity and C#
 
 ---
 
@@ -204,11 +231,13 @@ List key engines, programming languages, or frameworks required for development.
 <!-- 
 Describe the art direction, including color schemes, animation style, and UI elements. 
 -->
+Art direction should allow UI to be duller and monochrome colors so that the grid pops in comparison. The UI could be made to look sketchy to match my character designs.
 
 ### Sound Design
 <!-- 
 Explain the role of music, sound effects, and audio feedback in enhancing immersion. 
 -->
+Sound design should be tense and echoey. Imagine the backgroud music to bethe sort of thing you'd here in a dark cave. Attacking cards and clicking buttons should have unique sounds. Each character should have voice lines that play during their attacks and use of special ability. Field special abilities should have
 
 ---
 
@@ -217,7 +246,7 @@ Explain the role of music, sound effects, and audio feedback in enhancing immers
 Describe how the game will generate revenue. 
 Examples: one-time purchase, freemium model, ads, DLC, cosmetics, subscriptions. 
 -->
-
+Likely it would have ads to generate revenue. The game may also be able to implement cards that you can only attain through purchase to add to your deck although that doesnt seem very fair.
 ---
 
 ## Treatment Details
@@ -227,6 +256,7 @@ Examples: one-time purchase, freemium model, ads, DLC, cosmetics, subscriptions.
 Write a step-by-step walkthrough of a core gameplay scenario. 
 Explain what the player does, the challenges faced, and how the game responds. 
 -->
+The player begins the turn in the starting tile and moves forward to a chosen tile. Depending on the tile type, if your character has a matching tile type, that character will attain a speed buff while they remain on that tile.
 
 ---
 
@@ -237,12 +267,14 @@ Explain what the player does, the challenges faced, and how the game responds.
 Identify elements that could fail or require refinement. 
 Examples: balancing issues, unclear mechanics, technological constraints. 
 -->
+Special abilities in my cards can easily become unbalanced. The randomness of event cards could also lead to an unfair element since there are certain cards that can kill your entire team in a single turn (Wrath card).
 
 #### Feasibility
 <!-- 
 Describe any technological, financial, or development constraints. 
 How will you mitigate these risks? 
 -->
+Financial constraints may be tied to getting people invested in the game. For a game like this you need to make people invested in the characters and the story. I would likely try to incorporate a running story along with the basic play through. Think Cookie Run Kingdom which has story levels and each level has normal combat. The story gets you invested in the characters and that makes you willing to do the level combat.
 
 ---
 
@@ -266,18 +298,21 @@ Upload sketches here, or describe the key visual elements in detail if unavailab
 Provide a concise and engaging summary of the game concept and theme. 
 Make it persuasive and easy to understand. 
 -->
+System Failure is a game about fate vs free will where friends become foe in the blink of an eye. Strategize the best way to win against enemy teams as you. Traverse the ever expanding map and rush to your safe zones if you find yourself getting too close to death. Beware of fate's design as denying her commands draw you closer and closer to madness. The game is complex and can allow for fun stories unique to each new game. Designed for the story and strategic focused player theres something for every type of person to enjoy. System Failure will test friendships as betrayal meets you at every step. Test your skills and find out who comes out on top as the one favored by Lady Fate herself in System Failure: Exodus!
 
 ### Target Audience Appeal
 <!-- 
 Explain how the game connects with its intended audience. 
 What elements make it particularly appealing to them? 
 -->
+My target audience would be players interested in roleplay elements, strategy, and story. My game is for people of 12 and up. It would likely be less appealing to casual gamers. Since my game features many characters to choose from, players can choose to roleplay as their team and strategize the best way to make it through it to the portal considering the characters on enemy teams. Sometimes it may be best to take out enemy teams if they are too much of a threat while other times it may be more interesting to find the key and make your way to exit first.
 
 ### Market Differentiation
 <!-- 
 Describe what makes this game unique in the current gaming market. 
 Compare it to similar games and highlight key advantages. 
 -->
+My game is similar to others in the gacha/rpg genre so what gives any game of this style an advantage is the story. I am confident that if I communicate my story properly either in a hidden format that players can find within the basic game (ARG style) or as an explicit story element like in CRK. I also think the feature of fighting other character cards instead of enemies would attract players.
 
 ---
 
@@ -287,6 +322,10 @@ Compare it to similar games and highlight key advantages.
 ### Feedback 1
 - **Reviewer**:  
   <!-- Enter name and relation to you -->
+Name: Jared
+Relation: Friend
+He gave me a lot of ideas and specifically was the one to tell me about Tanks, Damage, and Healers. He thinks the special ability should be tied to the character type which I agree with. He also had some different ideas about the map. Since neither of us play board games he had a hard time understanding the expanding map idea. I'll look into the map and decided on how the static area should be laid out so that everyone has an equal chance of getting to the healing area. Also refine the location tiles. I'm not sure if they should encompass one location or a tile of several locations. Maybe they don't even have to be squares but other shapes that interlock together.
+
 - **Summary**:  
   <!-- Summarize feedback focusing on concept, mechanics, and style -->
 - **Refinement**:  
@@ -295,14 +334,22 @@ Compare it to similar games and highlight key advantages.
 ### Feedback 2
 - **Reviewer**:  
   <!-- Enter name and relation to you -->
+Name: Sonia
+Relation: Mother
 - **Summary**:  
   <!-- Summarize feedback focusing on concept, mechanics, and style -->
+She really liked the game. She figured out a way to play the game would be to kill off/get rid of your team leader so you could make use of a better special ability that one of your other team members have. She had a bit of trouble understanding the character deck doubling as your enemies in the game but that also was probably the language barrier (she only speaks spanish and I speak ok but not perfect). She wasn't fond of the idea of using dice to determine attack damage. I'll look into different ways to handle enemies in board games. To both get other ideas and find better ways to explain it to others.
+
 - **Refinement**:  
   <!-- Explain how this feedback will improve the design -->
 
 ### Feedback 3
 - **Reviewer**:  
   <!-- Enter name and relation to you -->
+Name: Gustavo
+Relation: Brother in law 
+He understood the game, but he thought instead of just Healer, Tank, and Damage, there should also be a Support character that can provide buffs/debuffs. He was unfamiliar with the tile location mechanism but he also doesn't play board games and I was trying to explain it verbally. I'll finalize how many character types I want and what they should be able to do. Maybe I'll change the types so that Healers are stronger against tanks, tanks strong against damage dealers, etc.
+
 - **Summary**:  
   <!-- Summarize feedback focusing on concept, mechanics, and style -->
 - **Refinement**:  
